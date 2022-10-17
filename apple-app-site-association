@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "XL77X45NGH.biz.arrowstar.funnyfood3",
+            "paths": ["/test/*"]
+        }]
+    }
+}
